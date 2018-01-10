@@ -1,0 +1,137 @@
+<header id="idHeader">
+    <div class="containerHeader">
+        <div id="internetExplorer">
+            <table>
+                <tbody>
+                    <tr>
+                        <td>
+                            <a href="adresse-maud-barrault">
+                                <figure>
+                                    <img alt="Hypnothérapie" src="images/logo.png"/>
+                                </figure>
+                            </a>
+                        </td>
+                        <td>
+                            <strong class="h1Strong">Maud BARRAULT</strong>
+                            <strong class="h2Strong">Hypnose et formation</strong>
+                        </td>
+                        <td>
+                            <strong class="h3Strong">
+                                <a href="adresse-maud-barrault">Orléans<br/>06 78 69 81 83</a>
+                            </strong>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <ul class="navigationLarge" id="idNavigationLarge">
+            <li class="" id="menuAcceuil">
+                <a href="hypnotherapeute-orleans">Accueil</a>
+            </li>
+            <li class="" id="menuHypnose">
+                <a href="hypnose-explication">Hypnose et coaching</a>
+            </li>
+            <li class="" id="menuApplications">
+                <a href="application-hypnose">Applications</a>
+                <ul>
+                    <li>
+                        <a href="application-hypnose">Applications</a>
+                    </li>
+                    <li>
+                        <a href="hypnose-relaxation">Hypnorelaxation</a>
+                    </li>
+                    <li>
+                        <a href="temoignages">Témoignages</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="" id="menuInfosPratiques">
+                <a href="hypnose-pour-qui">Infos pratiques</a>
+                <ul class="infosPratique">
+                    <li>
+                        <a href="hypnose-pour-qui">L'hypnose Pour qui</a>
+                    </li>
+                    <li>
+                        <a href="seance-deroulement">Comment se passe une séance</a>
+                    </li>
+                    <li>
+                        <a href="lieu-tarif">Lieu et tarifs</a>
+                    </li>
+                    <li>
+                        <a href="qualite-ethique">Qualité et éthique</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="" id="menuAteliersActualites">
+                <a href="ateliers-hypnose">Ateliers et actualités</a>
+                <ul>
+                    <li>
+                        <a href="ateliers-hypnose">Ateliers</a>
+                    </li>
+                    <li>
+                        <a href="actualites-formations">Actualités</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="" id="menuQuiSuisJe">
+                <a href="maud-barrault">Qui suis-je</a>
+            </li>
+            <li class="" id="menuContact">
+                <a href="contact">Contact</a>
+            </li>
+            <li class="" id="menuPartenaire">
+                <a href="partenaires">Partenaires</a>
+            </li>
+        </ul>
+        
+        <ul class="navigationSmall">
+            <li>
+                <a href="#">Navigation</a>
+                <ul>
+                    <li>
+                        <a href="hypnotherapeute-orleans">Accueil</a>
+                    </li>
+                    <li>
+                        <a href="hypnose-explication">Hypnose et coaching</a>
+                    </li>
+                    <li>
+                        <a href="application-hypnose">Applications</a>
+                    </li>
+                    <li>
+                        <a href="hypnose-relaxation">Hypnorelaxation</a>
+                    </li>
+                    <li>
+                        <a href="temoignages">Témoignages</a>
+                    </li>
+                    <li>
+                        <a href="hypnose-pour-qui">L'hypnose Pour qui</a>
+                    </li>
+                    <li>
+                        <a href="seance-deroulement">Comment se passe une séance</a>
+                    </li>
+                    <li>
+                        <a href="lieu-tarif">Lieu et tarifs</a>
+                    </li>
+                    <li>
+                        <a href="qualite-ethique">Qualité et éthique</a>
+                    </li>
+                    <li>
+                        <a href="ateliers-hypnose">Ateliers</a>
+                    </li>
+                    <li>
+                        <a href="actualites-formations">Actualités</a>
+                    </li>
+                    <li>
+                        <a href="maud-barrault">Qui suis-je</a>
+                    </li>
+                    <li>
+                        <a href="contact">Contact</a>
+                    </li>
+                    <li>
+                        <a href="partenaires">Partenaires</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</header>

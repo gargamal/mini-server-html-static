@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contact</title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="author" lang="fr" content="Daniel PELLIER"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow" />
+        <meta name="description" content="Contacter l'hypnothérapeute Maud BARRAULT.">
+        <meta name="keywords" CONTENT="contact,hypnose,hypnothérapeute,Maud,BARRAULT,45,orléans">
+        <meta name="msvalidate.01" content="5D8304514EE429FF8FE427E6CFDF9C33" />
+
+        <meta property="og:title" content="Contact"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:url" content="http://orleanshypnose.fr/contact"/>
+        <meta property="og:image" content="http://orleanshypnose.fr/images/logo.png"/>
+        <meta property="og:description" content="L'hypnothérapeute Maud BARRAULT vous reçois à Orléans entre le théâtre et les bords de Loire. Pour demande merci de laisser un message."/>
+        
+        <link rel="icon" type="image/png" href="images/favicon.png" />
+
+        <link rel="canonical" href="http://orleanshypnose.fr/contact" />
+        <link rel="alternate" href="http://orleanshypnose.fr/contact" hreflang="x-default" />
+
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/footer.css" />
+        <link rel="stylesheet" href="css/header.css" />
+        <link rel="stylesheet" href="css/image.css" />
+        <link rel="stylesheet" href="css/contact.css" />
+    </head>
+    <body>
+        <div id="idSectionBody" class="sectionBody">
+            <header></header>
+            
+            <h1 id="title">
+                Contact
+            </h1>
+
+            <div class="container">
+                <form action="http://pellierdaniel.no-ip.org/emailsenderJS.php" method="post">
+
+                    <div class="text_contact">
+                        <label class="label_contact" id="labelFirstName" for="firstName">Nom</label>
+                        <input class="input_contact" id="firstName" type="text" name="firstName" value="" required autofocus/>
+                    </div>
+
+                    <div class="text_contact">
+                        <label class="label_contact" id="labelLastName" for="lastName">Prénom</label>
+                        <input class="input_contact" id="lastName" type="text" name="lastName"  value="" required/>
+                    </div>
+
+                    <div class="text_contact">
+                        <label class="label_contact" id="labelEmail" for="email">Email</label>
+                        <input class="input_contact" id="email" type="email" name="email" value="" required/>
+                    </div>
+
+                    <div class="text_contact">
+                        <label class="label_contact" id="labelMessage" for="message">Message</label>
+                        <textarea class="textarea_contact" id="message" name="message" rows="15" required></textarea>
+                    </div>
+
+                    <button class="button_contact" type="submit">Envoyer</button>
+
+                    <div class='admindev'>
+                        <p>
+                            Contact Développeur / Admin : <a href="mailto:pellierdaniel@free.fr">pellierdaniel@free.fr</a>
+                        </p>
+                    </div>
+                </form>
+            </div>
+            
+            <footer></footer>
+        </div>
+        
+        <script src="js/tools.js"></script>
+        <script>runOnStart(Page.CONTACT);</script>
+    </body>
+</html>

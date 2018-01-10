@@ -1,0 +1,72 @@
+<footer id="idFooter">
+    <div class="containerFooter">
+        <strong class="h1Strong">
+            <a href="adresse-maud-barrault">Maud BARRAULT</a>
+        </strong>
+        <strong class="h2Strong">Maitre Praticien en Hypnose Ericksonienne</strong>
+        <strong class="h3Strong">Tel: 06 78 69 81 83</strong>
+        <strong class="h3Strong">
+            <a href="mailto:maud.hypnocoach@gmail.com">Email: maud.hypnocoach@gmail.com</a>
+        </strong>
+        <strong class="h1Strong">
+            <a href="adresse-maud-barrault">Orléans</a>
+        </strong>
+        <hr/>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <a href="https://www.facebook.com/profile.php?id=100008612596090" target="_blank">
+                            <div class="library_fb"></div>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://fr.linkedin.com/in/maud-barrault-4632b466" target="_blank">
+                            <div class="library_linkedin"></div>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="http://fr.viadeo.com/fr/profile/maud.barrault1" target="_blank">
+                            <div class="library_viadeo"></div>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://plus.google.com/u/0/100651440328240569231/posts" target="_blank">
+                            <div class="library_gplus"></div>
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <script src="//www.google-analytics.com/analytics.js" async=""></script>
+    <script>(function (i, s, o, g, r, a, m){    i['GoogleAnalyticsObject'] = r;    i[r] = i[r] || function ()    {        (i[r].q = i[r].q || []).push(arguments)    }, i[r].l = 1 * new Date();    a = s.createElement(o),            m = s.getElementsByTagName(o)[0];    a.async = 1;    a.src = g;    m.parentNode.insertBefore(a, m)})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');ga('create', 'UA-69200139-1', 'auto');ga('send', 'pageview');</script>
+    <script type='application/ld+json'> 
+        {
+        "@context": "http://schema.org/",
+        "@type": "HealthAndBeautyBusiness",
+        "name": "Hypnose Orléans Maud Barrault",
+        "logo": "http://orleanshypnose.fr/images/logo.png",
+        "image": "http://orleanshypnose.fr/images/logo.png",
+        "legalName" : "Hypn'Ose&amp;GO",
+        "description": "Hypnothérapeute sur Orléans, je vous aide à atteindre vos objectifs pour vivre mieux : arrêter de fumer, phobies, angoisses, stress, dépression, sommeil, confiance en soi, douleurs chroniques, migraines, chocs et traumatismes... Cabinet d'hypnose sur Orléans (Loiret 45) &quot;Hypn'Ose&amp;GO&quot;. Je suis certifiée en hypnose thérapeutique Ericksonienne.",
+        "openingHours":"Lundi au vendredi : 09:00 - 12:00 et 14:00 - 18:00 et samedi  : 09:00 - 15:00",
+        "address":
+        {
+        "@type": "PostalAddress",
+        "streetAddress": "1 Boulevard de la Motte Sanguin",
+        "addressLocality": "Orléans",
+        "postalCode": "45000"
+        },
+        "url" : "http://orleanshypnose.fr",
+        "member" :
+        {
+        "@type": "Person",
+        "additionalName" : "Maud Barrault",
+        "familyName" : "Barrault",
+        "telephone" : "+336-78-69-81-83",
+        "image" : "http://orleanshypnose.fr/images/maudbarrault.png"
+        }
+        }
+    </script>
+</footer>
